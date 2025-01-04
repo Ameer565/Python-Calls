@@ -9,8 +9,8 @@ if not os.path.exists("Sessions"):
     os.makedirs("Sessions")
 
 # تعريف المتغيرات
-API_ID = 'YOUR_API_ID'  # استبدل بـ API ID الخاص بك
-API_HASH = 'YOUR_API_HASH'  # استبدل بـ API Hash الخاص بك
+API_ID = '27975562'  # استبدل بـ API ID الخاص بك
+API_HASH = 'd125196a72d2886145180572380395e0'  # استبدل بـ API Hash الخاص بك
 
 # قائمة الحسابات
 accounts = []
